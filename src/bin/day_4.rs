@@ -1,4 +1,4 @@
-use fs::error::Error
+use fs::error::Error;
 
 
 fn main() -> Result<(), Box<dyn Error>> {
